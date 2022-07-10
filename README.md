@@ -10,3 +10,10 @@
 
 ### Unsafe conversions
 <img src="https://user-images.githubusercontent.com/84193117/178140663-4a19ee67-5053-4c59-bf41-5cba84ec1a46.png" width="600"/>
+
+- double to int
+- double to char
+- double to bool
+- int to char
+- int to bool
+- char to bool
