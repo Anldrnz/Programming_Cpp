@@ -139,7 +139,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Programming_Cpp.cpp" />
+    <ClCompile Include="LearnCPP_Stroustrup.cpp" />
+    <ClCompile Include="chapter3_drill.cpp" />
+    <ClCompile Include="chapter4_drill.cpp" />
+    <ClCompile Include="Trials.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="chapter3_drill.h" />
+    <ClInclude Include="chapter4_drill.h" />
+    <ClInclude Include="std_lib_facilities.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
