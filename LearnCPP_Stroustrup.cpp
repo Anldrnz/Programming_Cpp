@@ -118,7 +118,7 @@ int main() // C++ programs start by executing the function main
 	//		cout << words[i] << "\n";
 
 	// - - - - - - - - Chapter 4 drill call - - - - - - - -
-	//drill_ch4();
+	drill_ch4();
 
 
 	return 0;
